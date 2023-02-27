@@ -24,6 +24,7 @@ all: clean
 		cd $(TOOLDIR) && python $(SVGGEN) "../$(BUILDDIR)/$$svgfile" "$$item"; \
 		cd ..; \
 	done
+	@echo "Done!"
 
 install: all
 	@echo "Copying output files"
