@@ -32,7 +32,7 @@
 
  <!-- chip name -->
  <text x="50" y="75" fill="url(#soc_name)" text-anchor="middle">
-  <tspan style="font: 600 32px sans-serif">A31s</tspan>
+  <tspan font-weight="600" font-size="32" font-family="Adobe Heiti Std, sans-serif">A31s</tspan>
  </text>
 
  <!-- points -->

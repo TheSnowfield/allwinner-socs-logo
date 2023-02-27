@@ -32,7 +32,7 @@
 
  <!-- chip name -->
  <text x="50" y="69" fill="url(#soc_name)" text-anchor="middle">
-  <tspan style="font: 600 22px sans-serif">MR100</tspan>
+  <tspan font-weight="600" font-size="22" font-family="Adobe Heiti Std, sans-serif">MR100</tspan>
  </text>
 
  <!-- points -->
