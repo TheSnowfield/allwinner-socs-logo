@@ -11,6 +11,7 @@ SOCS     := A10 A13 A10s A20 A23 A31 A31s A33 A40i A50 A63 A64 A100 A133 A523 \
 			D1 D1s
 
 .PHONY: all install clean
+.DEFAULT_GOAL:= all
 
 clean:
 	@echo "Cleaning build directory"
