@@ -19,6 +19,6 @@ For the result the A64.svg will be:
 | ![svgs](./tools/A64.svg) |
 | **A64** |
 
-## LICNSE
+## LICENSE
 Licensed under MIT license with ❤️,  
 Everyone can use these logos anywhere.
