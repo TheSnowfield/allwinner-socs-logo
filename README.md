@@ -1,6 +1,5 @@
 # allwinner-socs-logo
 
-## Some Of Preview
 |      |      |      |      |      |
 | :--: | :--: | :--: | :--: | :--: |
 | ![svgs](./svgs/allwinner-a10.svg) | ![svgs](./svgs/allwinner-a10s.svg) | ![svgs](./svgs/allwinner-a13.svg) | ![svgs](./svgs/allwinner-a40i.svg) | ![svgs](./svgs/allwinner-a523.svg) |
@@ -9,6 +8,9 @@
 | **H3** | **H5** | **H6** | **H8** | **H616** |
 | ![svgs](./svgs/allwinner-f1c100s.svg) | ![svgs](./svgs/allwinner-f1c200s.svg) | ![svgs](./svgs/allwinner-t33-s4.svg) | ![svgs](./svgs/allwinner-t133-s3.svg) | ![svgs](./svgs/allwinner-r818.svg) |
 | **F1C100s** | **F1C200s** | **T33-S4** | **T133-S3** | **R818** |
+
+![license](https://img.shields.io/badge/License-MIT-blue)
+![svg](https://img.shields.io/badge/Makefile-SVG-green)
 
 Click [here](./svgs/) to view all models.
 
